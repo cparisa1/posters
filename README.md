@@ -1,2 +1,2 @@
-# posters
+# Posters
 Poster Presentations Attended/Participated.
